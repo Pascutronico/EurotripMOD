@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+
+    <Button
+        android:id="@+id/button_hoteles"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Madrid"
+        />
+
+    <Button
+        android:id="@+id/button_viajes"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Barcelona"/>
+
+    <Button
+        android:id="@+id/button_itinerario"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Paris"/>
+
+    <Button
+        android:id="@+id/button_notas"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Londres"/>
+
+</LinearLayout>

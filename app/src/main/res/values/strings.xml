@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="maps_key">AIzaSyAe0nageFFNtSfCNPl1YWBrLRT0GpQPCHw</string>
+    <string name="app_name">Eurotrip</string>
+    <string name="action_settings">Settings</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="viajes">Viajes</string>
+    <string name="itinerario">Itinerario</string>
+    <string name="notas">Notas</string>
+
+    <!--  MADRID -->
+    <string name="hotel_madrid">Apartments Arenal</string>
+    <string name="address_madrid">Bordadores 9, Bajo F, Centro de Madrid, 28013 Madrid, España</string>
+    <string name="viaje_madrid">Madrid Puerta de Atocha</string>
+    <string name="comida_madrid">COMIDA MADRID</string>
+    <string name="atrac_madrid">ATRAC MADRID</string>
+
+    <!-- BARCELONA -->
+    <string name="hotel_barce">Apartamentos Aura Park Nord</string>
+    <string name="address_barce">Puerto Principe, 26-40, Sant Andreu, 08027 Barcelona, España</string>
+    <string name="viaje_barce">VIAJE BARCELONA</string>
+    <string name="atrac_barce">ATRAC BARCE</string>
+    <string name="comida_barce">COMIDA BARCE</string>
+
+    <!-- PARIS -->
+    <string name="hotel_paris">Adagio Access Paris Vanves</string>
+    <string name="address_paris">26 Rue Jean Bleuzen, 92170 Vanves, Francia</string>
+    <string name="viaje_paris">VIAJE PARIS</string>
+    <string name="atrac_paris">ATRAC PARIS</string>
+    <string name="comida_paris">COMIDA PARIS</string>
+
+    <!-- LONDON -->
+    <string name="hotel_london">The Gresham Hotel</string>
+    <string name="address_london">116 Sussex Gardens, Westminster, Londres, W2 1UA, Reino Unido</string>
+    <string name="viaje_london">VIAJE LONDON</string>
+    <string name="atrac_london">ATRAC LONDON</string>
+    <string name="comida_london">COMIDA LONDON</string>
+
+
+</resources>
